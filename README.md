@@ -28,4 +28,5 @@ The program will print these the resluts for two vectors and graph it:
 
 
 Disclaimer:
-On the SDL1 project the graph size will have to be adjusted manually if it exceeds the window and all vectors have a base at the orgin.
+
+The graph size will have to be adjusted manually if it exceeds the window and all vectors have a base at the orgin.
