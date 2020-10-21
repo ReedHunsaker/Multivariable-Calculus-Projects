@@ -9,9 +9,9 @@ To use the code make sure you have a few libaries downloaded:
 
 you can use these commands to download these libaries:
 
-python -m pip install -U pip
+python3 -m pip install -U pip
 
-python -m pip install -U matplotlib
+python3 -m pip install -U matplotlib
 
 pip3 install numpy
 
