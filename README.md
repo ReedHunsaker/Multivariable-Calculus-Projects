@@ -18,7 +18,7 @@ pip3 install numpy
 (The Math libary should be built into python)
 
 SDL1 - Dot product and vectors:
-The program will print these the resluts for two vectors:
+The program will print these the resluts for two vectors and graph it:
 
 1.Dot product
 
@@ -28,4 +28,4 @@ The program will print these the resluts for two vectors:
 
 
 Disclaimer:
-On the first SDL project the graph size will have to be adjusted manually if it exceeds the window.
+On the first SDL project the graph size will have to be adjusted manually if it exceeds the window. All vectors have a base at the orgin.
