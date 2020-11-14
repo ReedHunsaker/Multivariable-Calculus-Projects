@@ -30,3 +30,10 @@ The program will print these the resluts for two vectors and graph it:
 Disclaimer:
 
 The graph size will have to be adjusted manually if it exceeds the window and all vectors have a base at the orgin.
+
+SDL2 - Conics and Arc length
+The program will ask the user which of 4 graphs they want to view. 
+
+It will then return the graph with it's arc length in the title.
+
+the function work is not finished but would have calculated the work of the curve in a given vector field
