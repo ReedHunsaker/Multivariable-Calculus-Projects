@@ -6,6 +6,8 @@ To use the code make sure you have a few libaries downloaded:
 1. matplotlib 
 2. numpy
 3. math
+4. mpmath
+5. scipy
 
 you can use these commands to download these libaries:
 
@@ -14,6 +16,10 @@ python3 -m pip install -U pip
 python3 -m pip install -U matplotlib
 
 pip3 install numpy
+
+pip insall mpmath
+
+pip install scipy
 
 (The Math libary should be built into python)
 
