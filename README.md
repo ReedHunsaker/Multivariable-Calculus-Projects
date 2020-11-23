@@ -43,3 +43,10 @@ The program will ask the user which of 4 graphs they want to view.
 It will then return the graph with it's arc length in the title.
 
 the function work is not finished but would have calculated the work of the curve in a given vector field
+
+SDL3 - Cartesian and Polar plots
+The program takes a point in either Cartesian or polar and graphs it in the opposite coordinate system.
+
+The program will return a plot of the point in the coorisponding coordinate system.
+
+There are also several uncomplete functions to graph and take the double integral of some polar and cartesian curves.
