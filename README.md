@@ -50,3 +50,12 @@ The program takes a point in either Cartesian or polar and graphs it in the oppo
 The program will return a plot of the point in the coorisponding coordinate system.
 
 There are also several uncomplete functions to graph and take the double integral of some polar and cartesian curves.
+
+
+SDL 4 - Vetor fields and eigenvalues calculator
+
+The function graphs a vector field by taking in the dervative with respect to x and y
+
+Also solves for eigenvalues given dxx, dxy, dyx, and dyy
+
+All functions are complete
