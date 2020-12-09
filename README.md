@@ -59,3 +59,15 @@ The function graphs a vector field by taking in the dervative with respect to x 
 Also solves for eigenvalues given dxx, dxy, dyx, and dyy
 
 All functions are complete
+
+SDL 5 - Solving cross product, area of a parallelepiped, and graphing in 3D
+
+The program ask for the user to input 2 vectors in the form of comma seperated values example input: 0,0,0
+
+Solves for the cross poduct of the two vectors as well as the area of a parallelpiped using a vecotor (1,2,3) 
+
+Graphs a cone as a proof of concept of the spherical coordinate graphing in python
+
+Feel free to play around with the graphing in 3D by changing the code on line 51 or changing the bounds in the function called on line 26
+
+All functions are complete (except graph_parallelepiped() which only graphs two line segmants)
