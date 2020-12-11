@@ -8,6 +8,7 @@ To use the code make sure you have a few libaries downloaded:
 3. math
 4. mpmath
 5. scipy
+6. sympy
 
 you can use these commands to download these libaries:
 
@@ -20,6 +21,8 @@ pip3 install numpy
 pip insall mpmath
 
 pip install scipy
+
+pip install sympy
 
 (The Math libary should be built into python)
 
