@@ -8,7 +8,7 @@ To use the code make sure you have a few libaries downloaded:
 3. math
 4. mpmath
 5. scipy
-6. sympy
+6. tkinter
 
 you can use these commands to download these libaries:
 
@@ -22,7 +22,7 @@ pip insall mpmath
 
 pip install scipy
 
-pip install sympy
+pip install tkinter
 
 (The Math libary should be built into python)
 
@@ -74,3 +74,17 @@ Graphs a cone as a proof of concept of the spherical coordinate graphing in pyth
 Feel free to play around with the graphing in 3D by changing the code on line 51 or changing the bounds in the function called on line 26
 
 All functions are complete (except graph_parallelepiped() which only graphs two line segmants)
+
+SDL 6 - Graphing 3D graphs using parametrized curves and graphing vector fields using dx and dy with objects or curves overlayed
+
+There are two programs:
+
+SDL6WGUI - Opens a gui that will let the user pick between 4 different sample 3D graphs. 
+
+Adding another graph isn't difficult and can be done by editing the parametric_curves function.
+
+SDL6 - main file. Has areas where graphs can be edited. 
+
+the function vector field takes the dx part of the field in as the first argument and the dy part as the second argument. the third argument can either be the string c, r, or t for circle, rectangle, or triangle, and those shapes will be displayed over the vector field. if the user types curves = True when the function is called it will graph with a curve. That curve can be edited on lines 123 and 124. the bounds can be adjusted on line 104
+
+Also contains a function that solves the work based on the problem we went over in class on December 7th in class
