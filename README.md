@@ -86,7 +86,7 @@ All functions are complete (except graph_parallelepiped() which only graphs two 
 
 Adding another graph isn't difficult and can be done by editing the parametric_curves function.
 
-##SDL6 - main file. Has areas where graphs can be edited. 
+## SDL6 - main file. Has areas where graphs can be edited. 
 
 the function vector field takes the dx part of the field in as the first argument and the dy part as the second argument. the third argument can either be the string c, r, or t for circle, rectangle, or triangle, and those shapes will be displayed over the vector field. if the user types curves = True when the function is called it will graph with a curve. That curve can be edited on lines 123 and 124. the bounds can be adjusted on line 104
 
