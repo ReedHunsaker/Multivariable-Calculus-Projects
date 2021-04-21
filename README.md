@@ -31,7 +31,7 @@ pip install tkinter
 
 (The Math libary should be built into python)
 
-#SDL1 - Dot product and vectors:
+# SDL1 - Dot product and vectors:
 The program will print these the resluts for two vectors and graph it:
 
 1.Dot product
@@ -45,14 +45,14 @@ Disclaimer:
 
 The graph size will have to be adjusted manually if it exceeds the window and all vectors have a base at the orgin.
 
-#SDL2 - Conics and Arc length
+# SDL2 - Conics and Arc length
 The program will ask the user which of 4 graphs they want to view. 
 
 It will then return the graph with it's arc length in the title.
 
 the function work is not finished but would have calculated the work of the curve in a given vector field
 
-#SDL3 - Cartesian and Polar plots
+# SDL3 - Cartesian and Polar plots
 The program takes a point in either Cartesian or polar and graphs it in the opposite coordinate system.
 
 The program will return a plot of the point in the coorisponding coordinate system.
@@ -60,7 +60,7 @@ The program will return a plot of the point in the coorisponding coordinate syst
 There are also several uncomplete functions to graph and take the double integral of some polar and cartesian curves.
 
 
-#SDL 4 - Vetor fields and eigenvalues calculator
+# SDL 4 - Vetor fields and eigenvalues calculator
 
 The function graphs a vector field by taking in the dervative with respect to x and y
 
@@ -68,7 +68,7 @@ Also solves for eigenvalues given dxx, dxy, dyx, and dyy
 
 All functions are complete
 
-#SDL 5 - Solving cross product, area of a parallelepiped, and graphing in 3D
+# SDL 5 - Solving cross product, area of a parallelepiped, and graphing in 3D
 
 The program ask for the user to input 2 vectors in the form of comma seperated values example input: 0,0,0
 
@@ -80,11 +80,11 @@ Feel free to play around with the graphing in 3D by changing the code on line 51
 
 All functions are complete (except graph_parallelepiped() which only graphs two line segmants)
 
-#SDL 6 - Graphing 3D graphs using parametrized curves and graphing vector fields using dx and dy with objects or curves overlayed
+# SDL 6 - Graphing 3D graphs using parametrized curves and graphing vector fields using dx and dy with objects or curves overlayed
 
 There are two programs:
 
-#SDL6WGUI - Opens a gui that will let the user pick between 4 different sample 3D graphs. 
+# SDL6WGUI - Opens a gui that will let the user pick between 4 different sample 3D graphs. 
 
 Adding another graph isn't difficult and can be done by editing the parametric_curves function.
 
